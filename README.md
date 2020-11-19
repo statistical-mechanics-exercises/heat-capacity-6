@@ -14,7 +14,7 @@ Taking the difference between these two values gives:
 
 And, because this range of values is symmetric around the value for the heat capacity that we computed by inserting the averages we thus arrive at a final value for the error bar of:
 
-![](https://render.githubusercontent.com/render/math?math=\Delta\C_v=\frac{\Delta(E^2)%2B2E\Delta\E]}{k_BT^2})
+![](https://render.githubusercontent.com/render/math?math=\Delta\C_v=\frac{\Delta(E^2)%2B2E\Delta\E}{k_BT^2})
 
 To complete this exercise you must, therefore, recompute the heat capacities from the data in the input as you did in the previous exercise.  This time, however, you need to also compute the error bars for the heat capacities that you obtain.  Just in case you have forgotten from the last exercise we import the following lists from `md_data.txt` at the start of the calculation:
 
